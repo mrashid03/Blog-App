@@ -1,7 +1,9 @@
 Overview
+
 The Blog App is a simple yet powerful application that allows users to sign up, log in, create, and manage blog posts. Built with Kotlin for the backend logic and utilizing Firebase for database storage, this app provides a seamless experience for users to share their thoughts and engage with others through likes.
 
 Features
+
 User Authentication: Secure sign-up and login functionality using Firebase Authentication.
 Blog Management: Create, edit, and delete blog posts with a user-friendly interface.
 Like System: Users can like posts, save the blogs, and the total likes are stored and displayed.
